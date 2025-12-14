@@ -5,7 +5,7 @@
 [![python version](https://img.shields.io/badge/Python-3.10%2B-brightgreen)](https://www.python.org/downloads/)
 [![license](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.fr.html)
 
-# **🕵️ Eyes is an OSINT tool to get existing accounts from an email**
+# **🕵️ AIM is an OSINT tool to get existing accounts from an email**
 
 
 
@@ -73,9 +73,8 @@ options:
   -m, --modules  gives you all the email modules used by Eyes
 ```
 
-### 🎥 Demo
 
-![](assets/demo.gif)
+
 
 ## 🌞 More
 
