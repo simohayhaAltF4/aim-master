@@ -1,4 +1,4 @@
-<h1 align="center" id="title">👁️🌍 A M I M</h1><br>
+<h1 align="center" id="title">👁️🌍 A I M</h1><br>
 
 ![](assets/AIM.png)
 
