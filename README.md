@@ -63,7 +63,7 @@ Eyes is very easy to use and not at all complex 🤙
 ### 🏄 Usage
 
 ```
-usage: python eyes.py [-h] [-m] [email]
+usage: python AIM.py [-h] [-m] [email]
 
 positional arguments:
   email          search information on the target email with modules, services...
